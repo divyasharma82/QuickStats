@@ -4,6 +4,12 @@
 # Or to ignore all .env files
 *.env
 
+# Ignore .env files
+.env
+
+# Or to ignore all .env files
+*.env
+
 # Other common files to ignore
 node_modules/
 .DS_Store
